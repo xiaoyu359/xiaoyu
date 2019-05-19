@@ -1,3 +1,4 @@
+## Rocket.Chat开发编译和安装方法
 ### 代码编译方法
 linux编译方法
 1. 安装g++、git、mongodb、build-essential
