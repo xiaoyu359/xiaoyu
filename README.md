@@ -8,6 +8,6 @@
 目录
 
 * 即时聊天
-    * [rocket](https://xiaoyu359.github.io/xiaoyu/Rocket.Chat开发编译和安装方法)
+    * [rocket](https://xiaoyu359.github.io/xiaoyu/即时通讯/Rocket.Chat开发编译和安装方法)
 
  
