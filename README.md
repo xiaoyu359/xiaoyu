@@ -9,5 +9,7 @@
 
 * 即时聊天
     * [rocket](https://xiaoyu359.github.io/xiaoyu/即时通讯/Rocket.Chat开发编译和安装方法)
+* 网络通讯
+   * [kafka配置ssl](https://xiaoyu359.github.io/xiaoyu/网络通讯/kafka配置ssl通信方式)
 
  
